@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 def generate_population_dictionary_from_csv(filename):
-  """Generates a dictionary of population per continent from CSV file in format."""
+  """Generates a dictionary of population per continent from CSV file in format:"""
   output = {}
 
   with open(filename, 'r') as csvfile:
