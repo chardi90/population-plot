@@ -22,7 +22,7 @@ You could replace the dummy dataset in the csv with any of the following:
 
 ## Development Ideas
 
-1. Bar graph for each Continent for each year to visualise growth in a different way.
+1. Bar graph for each continent for each year to visualise growth in a different way.
 2. Deploy these using Streamlit for better UX. 
 
 ## Contributing  
